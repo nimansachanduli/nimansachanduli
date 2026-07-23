@@ -14,11 +14,12 @@
 - 🎓 **Full Stack Developer** specializing in modern Web & Software Systems.
 - 🌐 **Live Portfolio:** [nimansachanduli.github.io/portfolio-website/](https://nimansachanduli.github.io/portfolio-website/)
 - 🚀 Created **Coinsy Web App** as my Main Final Project.
+- 📱 **Phone / WhatsApp:** [+94 77 357 093](https://wa.me/9477357093) (077357093)
+- ✉️ **Email:** **hbnimansachanduli@gmail.com**
 - 💼 Proficient in **MS Office Package** (MS Word, MS Excel, MS PowerPoint).
 - 🎨 Skilled in **Figma** (UI/UX Design) & **WordPress** Web Design.
 - 🤖 Experienced in leveraging **AI Tools & AI-assisted workflows** for modern development.
 - 💬 Ask me about **JavaScript, PHP, HTML/CSS, VB.NET, MySQL, AI Tools**.
-- ✉️ Contact Me: **hbnimansachanduli@gmail.com**
 
 ---
 
