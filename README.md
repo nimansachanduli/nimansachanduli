@@ -62,8 +62,8 @@
 | :--- | :--- | :--- |
 | 🌐 **[Live Portfolio Website](https://nimansachanduli.github.io/portfolio-website/)** | **Personal Showcase Website** - Interactive portfolio website. | HTML, CSS, JavaScript |
 | ⭐ **[Coinsy Web App](https://github.com/nimansachanduli/coinsy-web-app)** | **Final Project** - Personal Finance & Analytics Web Application. | HTML, CSS, JS, PHP |
-| 📚 **[5 Assignment Brainy](https://github.com/nimansachanduli/Nimansa-Chanduli-)** | Academic assignment portfolio showcase. | HTML, CSS |
+| 🎮 **[Kids Game](https://github.com/nimansachanduli/kids-game)** | Interactive educational game application. | HTML, CSS, JavaScript |
 | 🛒 **[Online Shopping System](https://github.com/nimansachanduli/online-shopping-system)** | E-commerce web application with admin & customer management. | PHP, MySQL, CSS |
 | 💎 **[Jewellery Management System](https://github.com/nimansachanduli/jewellery-management-system)** | Complete inventory & cash-flow management system for jewellery stores. | VB.NET, Access DB |
 | 🏨 **[Hostel Management System](https://github.com/nimansachanduli/hostel-management-system)** | Student registration, room allocation & reporting system. | VB.NET, Access DB |
-| 🎮 **[Kids Game](https://github.com/nimansachanduli/kids-game)** | Interactive educational game application. | HTML, CSS, JavaScript |
+| 📚 **[5 Assignment Brainy](https://github.com/nimansachanduli/Nimansa-Chanduli-)** | Academic assignment portfolio showcase. | HTML, CSS |
