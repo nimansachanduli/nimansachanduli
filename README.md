@@ -61,12 +61,3 @@
 | 💎 **[Jewellery Management System](https://github.com/nimansachanduli/jewellery-management-system)** | Complete inventory & cash-flow management system for jewellery stores. | VB.NET, Access DB |
 | 🏨 **[Hostel Management System](https://github.com/nimansachanduli/hostel-management-system)** | Student registration, room allocation & reporting system. | VB.NET, Access DB |
 | 🎮 **[Kids Game](https://github.com/nimansachanduli/kids-game)** | Interactive educational game application. | HTML, CSS, JavaScript |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimansachanduli&show_icons=true&theme=radial&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimansachanduli&layout=compact&theme=radial&hide_border=true" width="49%" />
-</p>
