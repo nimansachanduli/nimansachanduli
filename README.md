@@ -4,10 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&width=520&lines=Full+Stack+Developer;Coinsy+Web+App+Creator;AI-Powered+Workflow+Specialist;UI%2FUX+%26+WordPress+Designer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  🌐 <b><a href="https://nimansachanduli.github.io/portfolio-website/">Visit My Live Portfolio Website</a></b> 🌐
+</p>
+
 ---
 
 ### 🌟 About Me
 - 🎓 **Full Stack Developer** specializing in modern Web & Software Systems.
+- 🌐 **Live Portfolio:** [nimansachanduli.github.io/portfolio-website/](https://nimansachanduli.github.io/portfolio-website/)
 - 🚀 Created **Coinsy Web App** as my Main Final Project.
 - 💼 Proficient in **MS Office Package** (MS Word, MS Excel, MS PowerPoint).
 - 🎨 Skilled in **Figma** (UI/UX Design) & **WordPress** Web Design.
@@ -55,6 +60,7 @@
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
+| 🌐 **[Live Portfolio Website](https://nimansachanduli.github.io/portfolio-website/)** | **Personal Showcase Website** - Interactive portfolio website. | HTML, CSS, JavaScript |
 | ⭐ **[Coinsy Web App](https://github.com/nimansachanduli/coinsy-web-app)** | **Final Project** - Personal Finance & Analytics Web Application. | HTML, CSS, JS, PHP |
 | 📚 **[5 Assignment Brainy](https://github.com/nimansachanduli/Nimansa-Chanduli-)** | Academic assignment portfolio showcase. | HTML, CSS |
 | 🛒 **[Online Shopping System](https://github.com/nimansachanduli/online-shopping-system)** | E-commerce web application with admin & customer management. | PHP, MySQL, CSS |
