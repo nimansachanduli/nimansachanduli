@@ -1,7 +1,7 @@
 # Hi there, I'm Nimansa Chanduli 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&width=450&lines=Full+Stack+Developer;Coinsy+Web+App+Creator;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&width=520&lines=Full+Stack+Developer;Coinsy+Web+App+Creator;AI-Powered+Workflow+Specialist;UI%2FUX+%26+WordPress+Designer" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,7 +9,10 @@
 ### 🌟 About Me
 - 🎓 **Full Stack Developer** specializing in modern Web & Software Systems.
 - 🚀 Created **Coinsy Web App** as my Main Final Project.
-- 💬 Ask me about **JavaScript, PHP, HTML/CSS, VB.NET, MySQL**.
+- 💼 Proficient in **MS Office Package** (MS Word, MS Excel, MS PowerPoint).
+- 🎨 Skilled in **Figma** (UI/UX Design) & **WordPress** Web Design.
+- 🤖 Experienced in leveraging **AI Tools & AI-assisted workflows** for modern development.
+- 💬 Ask me about **JavaScript, PHP, HTML/CSS, VB.NET, MySQL, AI Tools**.
 - ✉️ Contact Me: **hbnimansachanduli@gmail.com**
 
 ---
@@ -23,15 +26,25 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
 <p align="left">
+  <!-- Web & Languages -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br/>
+  <!-- Design & CMS -->
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <!-- Productivity & AI -->
+  <img src="https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_Excel-1F7244?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Powered-00A4EF?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
