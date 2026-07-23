@@ -1,7 +1,7 @@
 # Hi there, I'm Nimansa Chanduli 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&width=520&lines=Full+Stack+Developer;Coinsy+Web+App+Creator;AI-Powered+Workflow+Specialist;UI%2FUX+%26+WordPress+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&width=600&lines=Full+Stack+Developer;SLIATE+HNDIT+Student;Coinsy+Web+App+Creator;AI-Powered+Workflow+Specialist;UI%2FUX+%26+WordPress+Designer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,15 +11,27 @@
 ---
 
 ### 🌟 About Me
-- 🎓 **Full Stack Developer** specializing in modern Web & Software Systems.
+- 🎓 **HNDIT Student** at **SLIATE** (Higher National Diploma in Information Technology)
+- 🏛️ **External Degree Candidate** at **University of Kelaniya**
 - 🌐 **Live Portfolio:** [nimansachanduli.github.io/portfolio-website/](https://nimansachanduli.github.io/portfolio-website/)
-- 🚀 Created **Coinsy Web App** as my Main Final Project.
+- 🚀 Created **Coinsy Web App** as my Main Final Project
 - 📱 **Phone / WhatsApp:** [+94 77 357 093](https://wa.me/9477357093) (077357093)
 - ✉️ **Email:** **hbnimansachanduli@gmail.com**
-- 💼 Proficient in **MS Office Package** (MS Word, MS Excel, MS PowerPoint).
-- 🎨 Skilled in **Figma** (UI/UX Design) & **WordPress** Web Design.
-- 🤖 Experienced in leveraging **AI Tools & AI-assisted workflows** for modern development.
-- 💬 Ask me about **JavaScript, PHP, HTML/CSS, VB.NET, MySQL, AI Tools**.
+- 💼 Proficient in **MS Office Package** (MS Word, MS Excel, MS PowerPoint)
+- 🎨 Skilled in **Figma** (UI/UX Design) & **WordPress** Web Design
+- 🤖 Experienced in leveraging **AI Tools & AI-assisted workflows** for modern development
+- 💬 Ask me about **JavaScript, PHP, HTML/CSS, VB.NET, MySQL, AI Tools**
+
+---
+
+### 🎓 Education
+
+| 🏫 Institution | 📚 Qualification | 📅 Status |
+| :--- | :--- | :--- |
+| 🏛️ **SLIATE** | Higher National Diploma in Information Technology (HNDIT) | 🟢 2022 — Present |
+| 🏛️ **University of Kelaniya** | External Degree Programme | 🟢 Currently Reading |
+| 🏫 **ESOFT Metro Campus** | Information Technology & English Language Course (Level 3) | ✅ Certified |
+| 🏫 **The Open University of Sri Lanka (OUSL)** | English Language Course | ✅ Certified |
 
 ---
 
@@ -61,10 +73,16 @@
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🌐 **[Live Portfolio Website](https://nimansachanduli.github.io/portfolio-website/)** | **Personal Showcase Website** - Interactive portfolio website. | HTML, CSS, JavaScript |
-| ⭐ **[Coinsy Web App](https://github.com/nimansachanduli/coinsy-web-app)** | **Final Project** - Personal Finance & Analytics Web Application. | HTML, CSS, JS, PHP |
-| 🎮 **[Kids Game](https://github.com/nimansachanduli/kids-game)** | Interactive educational game application. | HTML, CSS, JavaScript |
-| 🛒 **[Online Shopping System](https://github.com/nimansachanduli/online-shopping-system)** | E-commerce web application with admin & customer management. | PHP, MySQL, CSS |
-| 💎 **[Jewellery Management System](https://github.com/nimansachanduli/jewellery-management-system)** | Complete inventory & cash-flow management system for jewellery stores. | VB.NET, Access DB |
-| 🏨 **[Hostel Management System](https://github.com/nimansachanduli/hostel-management-system)** | Student registration, room allocation & reporting system. | VB.NET, Access DB |
-| 📚 **[5 Assignment Brainy](https://github.com/nimansachanduli/Nimansa-Chanduli-)** | Academic assignment portfolio showcase. | HTML, CSS |
+| 🌐 **[Live Portfolio Website](https://nimansachanduli.github.io/portfolio-website/)** | **Personal Showcase Website** - Interactive portfolio website | HTML, CSS, JavaScript |
+| ⭐ **[Coinsy Web App](https://github.com/nimansachanduli/coinsy-web-app)** | **Final Project** - Personal Finance & Analytics Web Application | HTML, CSS, JS, PHP |
+| 🎮 **[Kids Game](https://github.com/nimansachanduli/kids-game)** | Interactive educational game application | HTML, CSS, JavaScript |
+| 🛒 **[Online Shopping System](https://github.com/nimansachanduli/online-shopping-system)** | E-commerce web application with admin & customer management | PHP, MySQL, CSS |
+| 💎 **[Jewellery Management System](https://github.com/nimansachanduli/jewellery-management-system)** | Complete inventory & cash-flow management system for jewellery stores | VB.NET, Access DB |
+| 🏨 **[Hostel Management System](https://github.com/nimansachanduli/hostel-management-system)** | Student registration, room allocation & reporting system | VB.NET, Access DB |
+| 📚 **[5 Assignment Brainy](https://github.com/nimansachanduli/Nimansa-Chanduli-)** | Academic assignment portfolio showcase | HTML, CSS |
+
+---
+
+<p align="center">
+  <b>📞 077357093 &nbsp;|&nbsp; 💬 <a href="https://wa.me/9477357093">WhatsApp</a> &nbsp;|&nbsp; ✉️ hbnimansachanduli@gmail.com</b>
+</p>
