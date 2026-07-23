@@ -1,16 +1,25 @@
 # Hi there, I'm Nimansa Chanduli 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Web+%26+Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&width=450&lines=Full+Stack+Developer;Coinsy+Web+App+Creator;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌟 About Me
-- 👩‍💻 Passionate about **Full Stack Web Development & Software Systems**.
-- 🎓 Skilled in creating clean, user-friendly, and responsive web applications.
+- 🎓 **Full Stack Developer** specializing in modern Web & Software Systems.
+- 🚀 Created **Coinsy Web App** as my Main Final Project.
 - 💬 Ask me about **JavaScript, PHP, HTML/CSS, VB.NET, MySQL**.
 - ✉️ Contact Me: **hbnimansachanduli@gmail.com**
+
+---
+
+### 🏆 Main Final Project
+
+<div align="center">
+  <h3>🔥 <a href="https://github.com/nimansachanduli/coinsy-web-app">Coinsy Web App</a> (Final Project)</h3>
+  <p>An interactive, full-featured financial management web application built with HTML, CSS, JavaScript, PHP & Chart.js.</p>
+</div>
 
 ---
 
@@ -29,10 +38,11 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 All Projects
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
+| ⭐ **[Coinsy Web App](https://github.com/nimansachanduli/coinsy-web-app)** | **Final Project** - Personal Finance & Analytics Web Application. | HTML, CSS, JS, PHP |
 | 📚 **[5 Assignment Brainy](https://github.com/nimansachanduli/Nimansa-Chanduli-)** | Academic assignment portfolio showcase. | HTML, CSS |
 | 🛒 **[Online Shopping System](https://github.com/nimansachanduli/online-shopping-system)** | E-commerce web application with admin & customer management. | PHP, MySQL, CSS |
 | 💎 **[Jewellery Management System](https://github.com/nimansachanduli/jewellery-management-system)** | Complete inventory & cash-flow management system for jewellery stores. | VB.NET, Access DB |
